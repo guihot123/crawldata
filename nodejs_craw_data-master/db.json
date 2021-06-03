@@ -1,0 +1,22 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "first_name": "Sebastian",
+        "last_name": "Nommand",
+        "address": "123 Subway, NDC"
+      },
+      {
+        "id": 2,
+        "first_name": "Julia",
+        "last_name": "Palmer",
+        "address": "Path 12, Manchess Street"
+      },
+      {
+        "id": 3,
+        "first_name": "Anne",
+        "last_name": "Cathays",
+        "address": "4th floor, Nanman Landing"
+      }
+    ]
+  }
